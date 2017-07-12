@@ -1,0 +1,110 @@
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.pdb
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.pdb
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.xml
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csprojResolveAssemblyReference.cache
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.pdb
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.InitialModel.resources
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csproj.GenerateResource.Cache
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.UpdatesModel.resources
+C:\Users\Cajas\Documents\Visual Studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.FinalVersion.resources
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.InitialModel.resources
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.UpdatesModel.resources
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.FinalVersion.resources
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csproj.GenerateResource.Cache
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.xml
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.InitialModel.resources
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.UpdatesModel.resources
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.FinalVersion.resources
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csproj.GenerateResource.Cache
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.InitialModel.resources
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.UpdatesModel.resources
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.FinalVersion.resources
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csproj.GenerateResource.Cache
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.InitialModel.resources
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.UpdatesModel.resources
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.FinalVersion.resources
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csproj.GenerateResource.Cache
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.modelInitial.resources
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csproj.GenerateResource.Cache
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.Migrations.InitialModel.resources
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.csproj.GenerateResource.Cache
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Persistence\obj\Debug\DeleiteVenezolano.Persistence.pdb

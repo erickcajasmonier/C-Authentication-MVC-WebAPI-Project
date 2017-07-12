@@ -1,0 +1,302 @@
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.exe
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.exe.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.rsp
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csi.exe
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csi.rsp
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.AppContext.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.exe
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.exe.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.rsp
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.dll.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Antlr3.Runtime.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Web.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Newtonsoft.Json.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Net.Http.Formatting.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Helpers.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.WebHost.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Mvc.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Optimization.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Razor.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\WebGrease.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Newtonsoft.Json.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Net.Http.Formatting.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Helpers.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.WebHost.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Mvc.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Optimization.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Razor.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Antlr3.Runtime.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Web.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Http.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Razor.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.csprojResolveAssemblyReference.cache
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.SqlServer.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Common.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Mvc.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\WebActivatorEx.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Entities.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.dll.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.SqlServer.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Common.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Mvc.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\AutoMapper.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleitesVenezolano.API\bin\AutoMapper.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.exe
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.exe.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.rsp
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csi.exe
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csi.rsp
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.AppContext.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.exe
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.exe.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.rsp
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.dll.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Antlr3.Runtime.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\AutoMapper.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Web.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Newtonsoft.Json.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Common.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Mvc.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Helpers.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Mvc.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Optimization.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Razor.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\WebActivatorEx.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\WebGrease.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.dll.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\AutoMapper.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Newtonsoft.Json.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Common.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Mvc.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Helpers.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Mvc.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Optimization.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Razor.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Antlr3.Runtime.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Web.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Http.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.csprojResolveAssemblyReference.cache
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.exe
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.exe.config
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csc.rsp
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csi.exe
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\csi.rsp
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.AppContext.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.exe
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.exe.config
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\vbc.rsp
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.dll.config
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleitesVenezolano.API.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Antlr3.Runtime.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\AutoMapper.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Web.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Newtonsoft.Json.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Common.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Mvc.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Helpers.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Mvc.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Optimization.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Razor.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\WebActivatorEx.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\WebGrease.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\DeleiteVenezolano.Persistence.dll.config
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\AutoMapper.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Newtonsoft.Json.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Common.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Ninject.Web.Mvc.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Helpers.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Mvc.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Optimization.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.Razor.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Antlr3.Runtime.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\Microsoft.AI.Web.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\EntityFramework.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Http.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.csprojResolveAssemblyReference.cache
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleitesVenezolano.API\obj\Debug\DeleitesVenezolano.API.pdb

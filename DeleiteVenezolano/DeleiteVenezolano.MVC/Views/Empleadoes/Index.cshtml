@@ -1,0 +1,70 @@
+﻿@model IEnumerable<DeleiteVenezolano.Entities.Entities.Empleado>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Dni)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Correo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FecInicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoEmpleado)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dni)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Apellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Correo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FecInicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoEmpleado)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.EmpleadoId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.EmpleadoId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.EmpleadoId })
+        </td>
+    </tr>
+}
+
+</table>

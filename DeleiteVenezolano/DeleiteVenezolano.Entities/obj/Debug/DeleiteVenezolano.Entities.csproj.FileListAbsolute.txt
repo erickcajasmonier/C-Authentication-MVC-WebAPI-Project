@@ -1,0 +1,30 @@
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.pdb
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.pdb
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.csprojResolveAssemblyReference.cache
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Entities\obj\Debug\DeleiteVenezolano.Entities.pdb

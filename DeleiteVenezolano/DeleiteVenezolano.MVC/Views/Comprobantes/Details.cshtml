@@ -1,0 +1,83 @@
+﻿@model DeleiteVenezolano.Entities.Entities.Comprobante
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Comprobante</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pedido.PedidoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pedido.PedidoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumDocumento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumDocumento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Igv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Igv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoComprobante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoComprobante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PedidoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PedidoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ComprobanteId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

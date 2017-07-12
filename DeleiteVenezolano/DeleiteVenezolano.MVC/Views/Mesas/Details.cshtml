@@ -1,0 +1,51 @@
+﻿@model DeleiteVenezolano.Entities.Entities.Mesa
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Mesa</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Reserva.ReservaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Reserva.ReservaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Numero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaxPersonas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaxPersonas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EstadoMesa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EstadoMesa)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MesaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

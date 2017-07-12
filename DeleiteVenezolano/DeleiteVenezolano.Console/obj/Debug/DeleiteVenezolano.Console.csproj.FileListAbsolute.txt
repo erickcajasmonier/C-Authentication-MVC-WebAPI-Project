@@ -1,0 +1,94 @@
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.pdb
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.dll
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.pdb
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.pdb
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.xml
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.csprojResolveAssemblyReference.cache
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+c:\users\cajas\documents\visual studio 2012\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.csprojResolveAssemblyReference.cache
+F:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+F:\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+F:\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.dll
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.pdb
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.xml
+I:\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.csprojResolveAssemblyReference.cache
+J:\Progra1\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+J:\Progra1\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+J:\Progra1\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Downloads\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.csprojResolveAssemblyReference.cache
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.csprojResolveAssemblyReference.cache
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.dll
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.xml
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\FRANKANDREWILLIAMSOR\Desktop\Nueva carpeta\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.dll
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.xml
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.csprojResolveAssemblyReference.cache
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+C:\Users\Cajas\Desktop\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe.config
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.exe
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Console.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Entities.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.pdb
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\DeleiteVenezolano.Persistence.dll.config
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\EntityFramework.xml
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.csprojResolveAssemblyReference.cache
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.exe
+C:\Users\Cajas\Documents\Visual Studio 2017\Projects\DeleiteVenezolano\DeleiteVenezolano.Console\obj\Debug\DeleiteVenezolano.Console.pdb
